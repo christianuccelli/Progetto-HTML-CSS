@@ -1,0 +1,90 @@
+body	{
+	 color:black;
+	 font-size:15px;
+	 font-family:sans-serif;
+	}
+header	{
+	background-color:yellow;
+	height:10%;
+	width:100%;
+	}
+header h1	{
+	 color:blue;
+	 font-size:30px;
+	 font-family:times new roman;
+	 font-weight:bold;
+	 	}
+header h2	{
+	 color:blue;
+	 font-size:20px;
+	 font-family:times new roman;
+		}
+nav	{
+	background-color:brown;
+	height:7%;
+	width:100%;
+	padding:10px 10px 10px 10px;
+	}
+nav ul	{
+	display:inline;
+	list-decoration:none;
+	padding:10px 10px 10px 10px;
+	}
+nav li	{
+	display:inline;
+	}
+a link, a active	{
+	color:white;
+	}
+a hover	{
+	color:white;
+	text-decoration:underline overline;
+	}
+a visited	{
+	color:yellow;
+	}
+section	{
+	float:right;
+	width:60%;
+	background-color:white;
+	margin:10px auto;
+	height:700px;
+	}
+article	{
+	padding:10px 10px 10px 10px;
+	}
+aside	{
+	float:left;
+	width:39%;
+	clear:left;
+	height:700px;
+	}
+article div	{
+	text-align:center;
+	}
+footer	{
+	clear:both;
+	background-color:brown;
+	color:brown;
+	margin-top:800px;
+	}
+div	{
+	font-family:times new roman;
+	text-align:left;
+	}
+li	{
+	padding:15px 15px 15px 15px
+	}
+table, tr, td	{
+	margin:auto;
+	border:solid black 3px;
+	text-align:center;
+	border-collapse:collapse;
+	}
+article img	{
+	margin:auto
+	}
+form div{
+	text-align:left;
+	marginleft:0px
+	}
